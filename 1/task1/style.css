@@ -1,0 +1,38 @@
+body {
+	background: #18326d;
+}
+
+form {
+	background: #2b417a;
+	border: 1px solid #44567e;
+	box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.5);
+	padding: 20px;
+}
+
+label {
+	color: #8dacfe;
+	width: 110px;
+	float: left;
+	text-align: right;
+}
+
+input,
+textarea {
+	background: #182a50;
+	width: 300px;
+	border: none;
+	padding: 5px;
+	margin: 5px;
+}
+
+textarea {
+	height: 100px;
+}
+
+button {
+	margin-left: 115px;
+	background: #0d1321;
+	border: none;
+	padding: 10px 20px;
+	color: #6d82bb;
+}
