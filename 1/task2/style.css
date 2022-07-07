@@ -1,0 +1,36 @@
+.block {
+	width: 500px;
+	margin: 0 auto;
+}
+
+h1 {
+	background: gainsboro;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+	margin: 0;
+	color: black;
+}
+
+.block-content {
+	list-style: none;
+	padding: 0;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	border: 1px solid lightgray;
+	padding: 10px;
+	color: black;
+}
+
+.block-content__element {
+	margin: 0;
+	padding: 0;
+}
+
+a:hover {
+	transition: 1s;
+	color: orange;
+}
