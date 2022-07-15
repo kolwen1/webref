@@ -1,0 +1,19 @@
+ul {
+  background: purple;
+  padding: 10px 15px;
+}
+
+li{
+  display: inline;
+  list-style: none;
+  margin-right: 15px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline  ;
+}
