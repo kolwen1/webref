@@ -1,0 +1,18 @@
+article {
+  width: 500px;
+  padding: 20px;
+}
+
+.line {
+  display: inline-block;
+  padding-right: 10px;
+  text-align: right;
+  border-right: 2px solid burlywood;
+}
+
+h2 {
+  display: inline-block;
+  width: 150px;
+  margin: 0 0 0 10px;
+  vertical-align: top;
+}
