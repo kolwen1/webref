@@ -1,0 +1,24 @@
+img {
+  width: 140px;
+}
+
+.content{
+  width: 400px;
+  margin: auto;
+  border-bottom: 4px solid rgb(186, 115, 24);
+  font-size: 0;
+}
+
+.mail{
+  width: 50%;
+  font-size: 15px;
+  padding-left: 30px;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+.content > img{
+  padding-left: 10px;
+  vertical-align: middle;
+}
