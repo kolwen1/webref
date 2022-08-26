@@ -32,5 +32,6 @@ a {
 
 a:hover {
 	transition: 1s;
-	color: orange;
+	color: white;
+	background-color: burlywood;
 }
