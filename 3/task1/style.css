@@ -1,6 +1,7 @@
-article {
+.article {
   width: 500px;
   padding: 20px;
+  background-color: #f5f4f17e;
 }
 
 .line {
