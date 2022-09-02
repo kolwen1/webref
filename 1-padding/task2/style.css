@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  color: white;
+  border-bottom: 2px solid white;
+  background-color: burlywood;
+  padding: 20px;
+  margin: 1 px;
+}
+
+.radius-1 {
+  border-radius: 10px 10px 0 0;
+}
+
+.radius-2 {
+  border-radius: 0px 0px 10px 10px;
+}
