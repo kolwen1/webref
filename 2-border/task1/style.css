@@ -1,0 +1,8 @@
+.text-box {
+  background-color: greenyellow;
+  padding: 40px;
+  outline: 2px solid white;
+  outline-offset: -20px;
+  height: 90px;
+  width: 400px;
+}
