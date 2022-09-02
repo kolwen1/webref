@@ -1,0 +1,9 @@
+.table {
+  background-color: lightgreen;
+  width: 600px;
+}
+
+th, td {
+  border: 2px solid white;
+  padding: 10px;
+}
