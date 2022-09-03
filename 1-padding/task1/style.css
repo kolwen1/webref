@@ -3,28 +3,27 @@ span {
   font-family: Oswald, sans-serif;
 }
 
-.font-1 {
+.font{
   background-color: rgb(227, 227, 151);
   padding: 5px;
+}
+
+.font-1 {
   font-weight: 300;
 }
+
 .font-2 {
-  background-color: rgb(227, 227, 151);
-  padding: 5px;
   font-weight: 400;
 }
+
 .font-3 {
-  background-color: rgb(227, 227, 151);
-  padding: 5px;
   font-weight: 500;
 }
+
 .font-4 {
-  background-color: rgb(227, 227, 151);
-  padding: 5px;
   font-weight: 600;
 }
+
 .font-5 {
-  background-color: rgb(227, 227, 151);
-  padding: 5px;
   font-weight: 700;
 }
