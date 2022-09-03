@@ -1,6 +1,11 @@
-.text {
+.container {
   background-color: purple;
-  border: 5px double white;
   color: white;
-  padding: 20px;
+  padding: 5px;
+}
+
+.text {
+  padding: 15px;
+  outline: 2px solid white;
+  margin: 0;
 }
