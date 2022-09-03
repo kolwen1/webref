@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+.weather {
+  width: 150px;
+  height: 250px;
+  background-color: rgb(40, 78, 167);
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+  color: white;
+}
