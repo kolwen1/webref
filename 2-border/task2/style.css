@@ -1,6 +1,7 @@
 .table {
   background-color: lightgreen;
   width: 600px;
+  border-collapse: collapse;
 }
 
 th, td {
