@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(47, 136, 92);
+}
+
+.container {
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  border-radius: 5px;
+  margin: auto;
+  box-shadow: 1px 2px 5px black;
+}
+
+.some-text {
+  padding: 20px;
+}
