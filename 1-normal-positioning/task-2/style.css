@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+  margin: auto;
+  box-sizing: border-box;
+  box-shadow: 0 0 2px black;
+}
+
+.main-content {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 0 0 15px 0;
+  border: none;
+  border-radius: 30px;
+  background-color: rgb(246, 126, 82);
+  color: white;
+}
