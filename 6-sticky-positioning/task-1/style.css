@@ -1,0 +1,21 @@
+body {
+  min-height: 1000px;
+}
+
+.menu {
+  position: sticky;
+  top: 0;
+  padding: 10px 15px;
+  background: purple;
+}
+
+.menu li{
+  list-style: none;
+  display: inline;
+  padding-right: 10px;
+}
+
+.menu li a {
+  color: white;
+  text-decoration: none;
+}
